@@ -1,3 +1,4 @@
+# LLM Shiritori (LLM しりとり)
 ## Setup
 ### Specify REPO_PATH
 Set the REPO_PATH variable in `scripts/create_env.sh` and `scripts/run.sh`.
